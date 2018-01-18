@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Bumpiness.unity
+  isLoaded: 1
+  isActive: 1

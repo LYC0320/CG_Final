@@ -1,0 +1,60 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=3436 outsize=851 ok=1
+Cmd: preprocess
+  insize=1922 outsize=631 ok=1
+Cmd: preprocess
+  insize=4574 outsize=699 ok=1
+Cmd: preprocess
+  insize=3436 outsize=851 ok=1
+Cmd: preprocess
+  insize=1327 outsize=433 ok=1
+Cmd: preprocess
+  insize=926 outsize=666 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=451 outsize=1498 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=451 outsize=4582 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=411 outsize=1498 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=411 outsize=3170 kw=POINT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: preprocess
+  insize=4021 outsize=530 ok=1
+Cmd: preprocess
+  insize=1302 outsize=455 ok=1
+Cmd: preprocess
+  insize=1922 outsize=631 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=411 outsize=1498 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=411 outsize=2846 kw=DIRECTIONAL pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: preprocess
+  insize=4574 outsize=699 ok=1
+Cmd: preprocess
+  insize=3436 outsize=851 ok=1
+Cmd: preprocess
+  insize=1327 outsize=433 ok=1
+Cmd: preprocess
+  insize=926 outsize=666 ok=1
+Cmd: preprocess
+  insize=4021 outsize=530 ok=1
+Cmd: preprocess
+  insize=1302 outsize=455 ok=1
+Cmd: preprocess
+  insize=1922 outsize=631 ok=1
+Cmd: preprocess
+  insize=4574 outsize=699 ok=1
+Cmd: preprocess
+  insize=3436 outsize=851 ok=1
+Cmd: preprocess
+  insize=1327 outsize=433 ok=1
+Cmd: preprocess
+  insize=926 outsize=666 ok=1
+Cmd: preprocess
+  insize=4021 outsize=530 ok=1
+Cmd: preprocess
+  insize=1302 outsize=455 ok=1
+Cmd: preprocess
+  insize=1922 outsize=631 ok=1
